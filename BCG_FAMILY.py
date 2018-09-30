@@ -145,8 +145,8 @@ def updatehacktronian():
     print ("This Tool is Only Available for Linux and Similar Systems. ")
     choiceupdate = raw_input("Continue Y / N: ")
     if choiceupdate in yes:
-        os.system("git clone https://github.com/thehackingsage/hacktronian.git")
-        os.system("cd hacktronian && sudo bash ./update.sh")
+        os.system("git clone https://github.com/ROOTED833/BCG_FAMILY.git")
+        os.system("cd BCG_FAMILY && sudo bash ./update.sh")
         os.system("BCG_FAMILY")
 
 
